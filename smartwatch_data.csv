@@ -1,0 +1,9 @@
+
+ #timestamp,heart_rate,steps,activity_type,sleep_duration
+
+2023-06-01 08:00:00,70,5000,Walking,7
+2023-06-01 09:00:00,75,2000,Running,6.5
+2023-06-01 10:00:00,85,8000,Running,6.5
+2023-06-01 11:00:00,80,3000,Cycling,8
+2023-06-01 12:00:00,90,4000,Cycling,8
+
